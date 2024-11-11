@@ -9,7 +9,7 @@ public class ContaPoupanca extends Conta{
 		this.aniversario = aniversario;
 	}
 
-	public ContaPoupanca(int numero, int agencia, int tipo, String titular, float saldo, int aniversario2) {
+	/*public ContaPoupanca(int numero, int agencia, int tipo, String titular, float saldo, int aniversario2) {
 		// TODO Auto-generated constructor stub
 	}
 
@@ -19,7 +19,7 @@ public class ContaPoupanca extends Conta{
 
 	public void setAniversario(int aniversario) {
 		this.aniversario = aniversario;
-	}
+	}*/
 	
     @Override
 	public void visualizar() {
